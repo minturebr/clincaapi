@@ -27,6 +27,7 @@ npx run sequelize db:seed:all
 | Nome | 
 | ------ |
 | NodeJS | 
+| Express | 
 | Typescript |
 | Sequelize |
 | MySQL |
