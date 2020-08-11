@@ -1,7 +1,5 @@
 # Clinica API (Teste)
 
-parte do teste backend, clinica veterinária
-
   - [Documentação da API](https://documenter.getpostman.com/view/11653917/T1LLDTGu)
 
 ### Dev
